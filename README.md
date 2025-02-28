@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=아아아%20으으&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=PARK%20HA&fontSize=90)
 
 ### 🤞 Nice way to meet me
 <p>
@@ -8,10 +8,8 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>developer</b> ??????🚀<br/>
-  ??????????.<br/>
- ???>?>?>>? ⛰ 🏄<br/>
- ?>?>?>? ✨ <br/><br/>
+  👋&nbsp; Hi there! I'm <b>developer parkha</b>🚀<br/>
+  <br/>
 </p>
 
 
