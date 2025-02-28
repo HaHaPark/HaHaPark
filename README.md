@@ -35,4 +35,10 @@
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 </p>
 
+### 🙌ご覧くださいませ
+<p>
+ ハッカソンで開発したプロジェクトはこちらです。 ->  https://github.com/HaHaPark/12th-BeginnerFit-BE<br/>
+  <br/>
+</p>
+
 
