@@ -1,5 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=PARK%20HA&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=パク・ハ%0A(PARK%20HA)&fontSize=90)
+
 
 ### 🤞 はじめまして、パク・ハです！
 <p>
