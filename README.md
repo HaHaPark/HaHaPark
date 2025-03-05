@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>developer parkha</b>🚀<br/>
+  👋&nbsp; どんな問題でも解決策があると信じるエンジニア、<b>パク・ハ</b>です。<br/>
   <br/>
 </p>
 
@@ -30,7 +30,6 @@
 <p>
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 </p>
