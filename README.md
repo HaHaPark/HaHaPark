@@ -11,11 +11,15 @@
 <p>
   👋&nbsp; どんな問題でも解決策があると信じるエンジニア、<b>パク・ハ</b>です。<br/>
   <br/>
-  📌 ポートフォリオはこちら 👉 
-  <a href="https://abalone-sodalite-598.notion.site/PARK-HA-1a85f3fc02a380fabfbbd4b680c45f25?pvs=4" target="_blank">
-    ぜひご覧ください！
-  </a>
+  📌 <b>ポートフォリオはこちら！</b> 🔗 <br/>
+  👉 <a href="https://abalone-sodalite-598.notion.site/PARK-HA-1a85f3fc02a380fabfbbd4b680c45f25?pvs=4" target="_blank">
+    <b>[ クリックして見る ]</b> 🚀
+  </a>  
+  <br/>
+  ✅ <b>ぜひ見てください！</b>👀✨
 </p>
+
+
 
 
 
