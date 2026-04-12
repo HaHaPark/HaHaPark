@@ -13,6 +13,9 @@
 # 👋 About Me
 
 🇰🇷 韓国出身（釜山近郊）  
+<img width="270" height="392" alt="image" src="https://github.com/user-attachments/assets/d84fc2c8-86de-4718-854b-bf193bf6a368" />
+
+
 🎸 趣味：ギター・歌・カラオケ 🎤  
 🎮 音楽が好きで、新しい環境に挑戦することが好きです  
 
@@ -31,7 +34,9 @@
 - MySQL  
 
 ## 🌐 Experience
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/987f287b-ecf4-496f-8038-5902f2ba3e55"/>
+</p>
 ### 🏋️ BeginnerFit（Webサービス開発）
 6人チームでハッカソンに向けて開発したWebサービス  
 運動や健康管理の知識が少ない人向けに、  
@@ -41,8 +46,11 @@
 
 #### 🔹 開発・経験内容
 - データのCRUD処理（登録・取得・更新・削除）  
-- 必要な機能を整理し、ER図（データベース設計）を作成  
-- ER図をもとにMySQLでテーブル設計を実施  
+- 必要な機能を整理し、ER図（データベース設計）を作成
+![멋사 (1)](https://github.com/user-attachments/assets/b091a77c-bc51-4dda-9618-cc82aa1a7395) 
+- ER図をもとにMySQLでテーブル設計を実施
+  <img width="1002" height="561" alt="image" src="https://github.com/user-attachments/assets/00be3db8-5f95-4439-8047-15fe7a65703d" />
+
 - AWS EC2を利用したバックエンドのデプロイ  
 - AWS S3を利用した画像アップロード機能の実装  
 
