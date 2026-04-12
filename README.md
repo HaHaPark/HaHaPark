@@ -90,3 +90,7 @@
 
 早く成長し、一人前として貢献できるよう努力します。  
 よろしくお願いいたします！
+
+
+<img width="367" height="385" alt="image" src="https://github.com/user-attachments/assets/12446a0a-d878-49ce-92de-16975f30151c" />
+
